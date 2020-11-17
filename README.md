@@ -35,7 +35,7 @@
 <img   src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img   src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /><br>
 <img   src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<!-- <img   src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next-dot-js&logoColor=white" /> -->
+<img   src="https://img.shields.io/badge/Bulma%20-%2300D1B2.svg?&style=for-the-badge&logo=Bulma&logoColor=white" />
 
  </p>
 
