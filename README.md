@@ -53,6 +53,11 @@
 📆 2018 - 2020\
 📍 **Manipal Institute of Technology** - Manipal, Karnataka, India
 
+
+- 📖 **Bachelors of Computer Application**\
+📆 2015 - 2018\
+📍 **Galgotias University** - Greater Noida, Uttar Pradesh, India
+
 ## Experience
 
 - 👨‍💻 **ReactJs Devloper**\
