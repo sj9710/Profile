@@ -57,7 +57,7 @@
 
 - 👨‍💻 **ReactJs Devloper**\
 📆 11/2020 - Present\
-📍 **Blisky** - Remote
+📍 <a href="https://blisky.in/">**Blisky**</a> - Remote
 
 - 👨‍💻 **Full Stack Devloper Intern**\
 📆 07/2020 - 10/2020\
