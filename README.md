@@ -60,9 +60,9 @@
 
 ## Experience
 
-- 👨‍💻 **ReactJs Devloper**\
-📆 11/2020 - Present\
-📍 <a href="https://blisky.in/">**Blisky**</a> - Remote
+- 👨‍💻 **FullStack Engineer**\
+📆 01/2021 - Present\
+📍 <a href="https://bhumio.com/">**Bhumio**</a> - Remote
 
 - 👨‍💻 **Full Stack Devloper Intern**\
 📆 07/2020 - 10/2020\
