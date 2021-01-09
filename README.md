@@ -70,7 +70,7 @@
 
 - 👨‍💻 **Front End Developer Intern**\
 📆 12/2019 - 06/2020\
-📍 <a href="https://www.confirmtkt.com/">**ConfirmTkt** - Bangalore, India
+📍 <a href="https://www.confirmtkt.com/">**ConfirmTkt**</a> - Bangalore, India
 
 
 ## Operating Systems
