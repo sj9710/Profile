@@ -66,11 +66,11 @@
 
 - 👨‍💻 **Full Stack Devloper Intern**\
 📆 07/2020 - 10/2020\
-📍 **Vidyalai** - Chennai, India
+📍 <a href="https://www.vidyalai.com/">**Vidyalai**</a> - Chennai, India
 
 - 👨‍💻 **Front End Developer Intern**\
 📆 12/2019 - 06/2020\
-📍 **ConfirmTkt** - Bangalore, India
+📍 <a href="https://www.confirmtkt.com/">**ConfirmTkt** - Bangalore, India
 
 
 ## Operating Systems
