@@ -61,7 +61,7 @@
 ## Experience
 
 - 👨‍💻 **FullStack Engineer**\
-📆 01/2021 - Present\
+📆 01/2021 - 02/2021\
 📍 <a href="https://bhumio.com/">**Bhumio**</a> - Remote
 
 - 👨‍💻 **Full Stack Devloper Intern**\
