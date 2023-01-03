@@ -61,7 +61,11 @@
 ## Experience
 
 - 👨‍💻 **FullStack Engineer**\
-📆 01/2021 - 02/2021\
+📆 09/2021 - Present\
+📍 <a href="https://blisky.in/">**Blisky**</a> - Remote
+
+- 👨‍💻 **FullStack Engineer**\
+📆 01/2021 - 03/2021\
 📍 <a href="https://bhumio.com/">**Bhumio**</a> - Remote
 
 - 👨‍💻 **Full Stack Devloper Intern**\
