@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A FrontEnd Devloper Developer from India.
+  A Full-Stack Developer from India.
 </p>
 
 
