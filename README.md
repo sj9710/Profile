@@ -59,14 +59,13 @@
 📍 **Galgotias University** - Greater Noida, Uttar Pradesh, India
 
 ## Experience
+- 👨‍💻 **Full Stack Developer**\
+📆 08/2021 - Present\
+📍 <a href="https://www.thehelpmate.in/">**The Helpmate**</a> - Noida, India
 
-- 👨‍💻 **FullStack Engineer**\
-📆 09/2021 - Present\
+- 👨‍💻 **Front End Developer**\
+📆 01/2021 - 07/2021\
 📍 <a href="https://blisky.in/">**Blisky**</a> - Remote
-
-- 👨‍💻 **FullStack Engineer**\
-📆 01/2021 - 03/2021\
-📍 <a href="https://bhumio.com/">**Bhumio**</a> - Remote
 
 - 👨‍💻 **Full Stack Devloper Intern**\
 📆 07/2020 - 10/2020\
